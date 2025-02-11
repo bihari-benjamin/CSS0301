@@ -7,6 +7,6 @@
 
 ## Feladat:
 
-A gazd osztályjelölővel jelölt elemet rejtse el a következő módon:
-Az elrejtetett elemnek maradjon meg a helye.
+*A gazd osztályjelölővel jelölt elemet rejtse el a következő módon:
+*Az elrejtetett elemnek maradjon meg a helye.
 
